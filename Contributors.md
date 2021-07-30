@@ -31,6 +31,7 @@ Joshua Do
 - [Jihoi Kang](https://github.com/jihoi-kang)
 - [Dalila Baba ameur](https://github.com/DalilaBA)
 - [Kaung Wai](https://github.com/kaungwai)
+- [Nazreen Shah](https://github.com/nazreenshah)
 - [Benjamin Wolf](https://github.com/devBenWolf)
 - [Sameer Fidai](https://github.com/sameerfidai)
 - [Niti Shah](https://github.com/Niti-Shah)
